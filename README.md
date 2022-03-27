@@ -1,5 +1,4 @@
-### Hi there 👋
-![Codewars Rank](https://www.codewars.com/users/MorganGarciaBrown/badges/large)
+### Hi there 👋 ![Codewars Rank](https://www.codewars.com/users/MorganGarciaBrown/badges/large)
 <!--
 **Morganb816/Morganb816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
